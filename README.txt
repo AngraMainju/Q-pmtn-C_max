@@ -26,4 +26,4 @@ A program futtatása kevésbé részletes OUTPUT-tal:
 
 A kevésbé részletes OUTPUT csak a blokkfelbontást írja ki.
 A részletesebb OUTPUT a blokkokon belüli feladatmegosztást is kiírja.
-A könnyebb érthetőség kedvéért a program kiírja azt is, hogy az adott pillanatban az egyes feladatok elvégzéséhez még mennyi idő szükséges.
+A könnyebb követhetőség kedvéért a program kiírja azt is, hogy az adott pillanatban az egyes feladatok elvégzéséhez még mennyi idő szükséges.
