@@ -7,6 +7,7 @@ Az INPUT fájlnak a testfiles mappában kell lennie. Néhány példát már tart
 
 A program fordítása:
 
+mkdir build
 cd build
 cmake ..
 make
